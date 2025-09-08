@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BLam\\Desktop\\donet\\LeaveManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB6E1C9-549D-4FDC-9F76-C78F2EA59E29}|LeaveManagement.Web\\LeaveManagement.Web.csproj|c:\\users\\blam\\desktop\\donet\\leavemanagement\\leavemanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB6E1C9-549D-4FDC-9F76-C78F2EA59E29}|LeaveManagement.Web\\LeaveManagement.Web.csproj|solutionrelative:leavemanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB6E1C9-549D-4FDC-9F76-C78F2EA59E29}|LeaveManagement.Web\\LeaveManagement.Web.csproj|c:\\users\\blam\\desktop\\donet\\leavemanagement\\leavemanagement.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DB6E1C9-549D-4FDC-9F76-C78F2EA59E29}|LeaveManagement.Web\\LeaveManagement.Web.csproj|solutionrelative:leavemanagement.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB6E1C9-549D-4FDC-9F76-C78F2EA59E29}|LeaveManagement.Web\\LeaveManagement.Web.csproj|c:\\users\\blam\\desktop\\donet\\leavemanagement\\leavemanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DB6E1C9-549D-4FDC-9F76-C78F2EA59E29}|LeaveManagement.Web\\LeaveManagement.Web.csproj|solutionrelative:leavemanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 186,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BLam\\Desktop\\donet\\LeaveManagement\\LeaveManagement.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\BLam\\Desktop\\donet\\LeaveManagement\\LeaveManagement.Web\\Program.cs",
+              "RelativeToolTip": "LeaveManagement.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:47:48.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\BLam\\Desktop\\donet\\LeaveManagement\\LeaveManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\BLam\\Desktop\\donet\\LeaveManagement\\LeaveManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LeaveManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T20:15:59.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\BLam\\Desktop\\donet\\LeaveManagement\\LeaveManagement.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagement.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\BLam\\Desktop\\donet\\LeaveManagement\\LeaveManagement.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "LeaveManagement.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T20:09:12.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
